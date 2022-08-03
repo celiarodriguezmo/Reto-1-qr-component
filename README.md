@@ -26,7 +26,7 @@ Screensot Desktop
 
 
 
-<img src="./images/viewQrDesktop.JPG" width="600"/>
+<img src="./images/viewQrDesktop.JPG" width="750"/>
 
 
 

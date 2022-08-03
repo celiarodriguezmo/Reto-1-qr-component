@@ -10,6 +10,7 @@ box-sizing: border-box;
   --dark-blue: hsl(218, 44%, 22%);
 }
 .main{
+  width: 100vw;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -17,11 +18,33 @@ box-sizing: border-box;
   background-color: var(--light-gray);
   }
   .card{
+    width: 350px;
     padding: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
     background-color: var(--white);
-    border-radius: 15px;
+    border-radius: 25px;
+    font-family: 'Outfit', sans-serif;
+   
+  }
+  .qrimage{
+    width: 310px;
+    height: 310px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+  }
+  .title{
+    padding: 15px 25px;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--dark-blue);
+  }
+  .paragraph{
+    padding: 15px 25px;
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--grayish-blue);
   }

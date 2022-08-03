@@ -15,7 +15,7 @@ Screensot Mobile
 
 
 
-![](.images/viewQrMobile.JPG)
+![](viewQrMobile.JPG)
 
 
 
@@ -26,7 +26,7 @@ Screensot Desktop
 
 
 
-![](.images/viewQrDesktop.JPG)
+![](viewQrDesktop.JPG)
 
 
 

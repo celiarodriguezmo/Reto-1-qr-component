@@ -15,7 +15,7 @@ Screensot Mobile
 
 
 
-![](viewQrMobile.JPG)
+<img src="./images/viewQrMobile.JPG" width="128"/>
 
 
 
@@ -26,7 +26,7 @@ Screensot Desktop
 
 
 
-![](viewQrDesktop.JPG)
+<img src="./images/viewQrDesktop.JPG" width="128"/>
 
 
 

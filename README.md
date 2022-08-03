@@ -15,7 +15,7 @@ Screensot Mobile
 
 
 
-<img src="./images/viewQrMobile.JPG" width="128"/>
+<img src="./images/viewQrMobile.JPG" width="260"/>
 
 
 
@@ -26,7 +26,7 @@ Screensot Desktop
 
 
 
-<img src="./images/viewQrDesktop.JPG" width="128"/>
+<img src="./images/viewQrDesktop.JPG" width="460"/>
 
 
 

@@ -37,13 +37,13 @@ box-sizing: border-box;
     border-radius: 20px;
   }
   .title{
-    padding: 15px 25px;
+    padding: 10px 25px;
     font-size: 1.4rem;
     font-weight: 700;
     color: var(--dark-blue);
   }
   .paragraph{
-    padding: 15px 25px;
+    padding: 5px 25px 30px;
     font-size: 15px;
     font-weight: 400;
     color: var(--grayish-blue);

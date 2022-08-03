@@ -41,11 +41,11 @@ You can find the challenge in the first link, as well as my solution below.
 
 ## My process
 
-# 1º Make a sketch of the Qr Component.
-# 2º Write the HTML syntax with correct semantic tags.
-# 3º Add CSS styles starting with Mobile-first looking at the designs of the challenge.
-# 4º Upload the page to GitHub Pages.
-# 5º Make a complete Readme!
+- 1º Make a sketch of the Qr Component.
+- 2º Write the HTML syntax with correct semantic tags.
+- 3º Add CSS styles starting with Mobile-first looking at the designs of the challenge.
+- 4º Upload the page to GitHub Pages.
+- 5º Make a complete Readme!
 
 ### Built with
 

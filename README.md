@@ -36,8 +36,8 @@ Screensot Desktop
 
 You can find the challenge in the first link, as well as my solution below.
 
-- Solution URL: [solution URL here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- Live Site URL: [site URL here](https://celiarodriguezmo.github.io/Reto-1-qr-component/)
+- Challenge URL: [(https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)]
+- My solution live Site URL: [(https://celiarodriguezmo.github.io/Reto-1-qr-component/)]
 
 ## My process
 

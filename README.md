@@ -1,4 +1,4 @@
-# Frontend Mentor -Reto-1-qr-component
+# Frontend Mentor -CHALLENGE-1-QR-Component- 💥✨🐱‍🏍
 
 QR code component coding challenge
 
@@ -69,4 +69,4 @@ Constructive comments are welcome from anyone to help me improve my code.
 
 Send me an email at the following adress celiro02@gmail.com
 
-Thanks!
+Thanks!☮
